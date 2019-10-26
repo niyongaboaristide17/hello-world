@@ -1,2 +1,2 @@
 # hello-world
-Code Sleep and Repeat
+Eat Code Sleep Repeat
